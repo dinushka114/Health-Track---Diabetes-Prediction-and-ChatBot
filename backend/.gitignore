@@ -1,4 +1,4 @@
 env
 __pycache__/
 chatbot/__pycache__/
-chatbot/chroma.sqlite3
+chatbot/sql_chroma_db/chroma.sqlite3
