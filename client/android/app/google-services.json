@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719251251349",
+    "project_id": "my-medi-app-001",
+    "storage_bucket": "my-medi-app-001.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719251251349:android:7681c432591e5e4540fb9c",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPjX3MwJvg69jsnYHGgRBUgywlpMqgp78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

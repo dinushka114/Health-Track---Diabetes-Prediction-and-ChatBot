@@ -1,0 +1,145 @@
+[{
+    "High_Blood_Pressure": {
+        "Count": 165,
+        "MedicalAdvice": [
+            "Limit salt intake to less than 2,300 mg per day.",
+            "Increase potassium-rich foods like bananas, oranges, spinach, and sweet potatoes.",
+            "Avoid processed foods and reduce alcohol consumption.",
+            "Engage in regular aerobic exercise (e.g., walking, swimming, or cycling).",
+            "Manage stress through mindfulness or yoga.",
+            "Consult a doctor for potential antihypertensive medications."
+        ]
+    },
+    "Low_Blood_Pressure": {
+        "Count": 121,
+        "MedicalAdvice": [
+            "Increase fluid intake and avoid dehydration.",
+            "Consume small, frequent meals and include more salt (under medical supervision).",
+            "Include foods like olives, pickles, and broth-based soups for sodium.",
+            "Avoid sudden position changes to prevent dizziness.",
+            "Consider compression stockings if symptoms persist.",
+            "Discuss with a healthcare provider if symptoms are severe."
+        ]
+    },
+    "High_Glucose": {
+        "Count": 192,
+        "MedicalAdvice": [
+            "Avoid sugary and processed foods; focus on whole grains, legumes, and lean proteins.",
+            "Include low-glycemic-index foods such as lentils, chickpeas, and green leafy vegetables.",
+            "Maintain regular physical activity to improve insulin sensitivity.",
+            "Limit carbohydrates to about 45-60% of daily caloric intake.",
+            "Schedule regular blood sugar monitoring and discuss medication if necessary."
+        ]
+    },
+    "Low_Glucose": {
+        "Count": 16,
+        "MedicalAdvice": [
+            "Carry quick sources of sugar like glucose tablets or fruit juice.",
+            "Eat small, frequent meals with balanced carbohydrates and proteins.",
+            "Avoid skipping meals or prolonged fasting.",
+            "Monitor blood sugar levels regularly, especially after meals or exercise.",
+            "Consult a doctor if episodes are frequent to adjust treatment or medications."
+        ]
+    },
+    "Underweight": {
+        "Count": 15,
+        "MedicalAdvice": [
+            "Increase caloric intake with nutrient-dense foods like nuts, avocados, and whole milk products.",
+            "Add healthy snacks like smoothies, peanut butter, or trail mix between meals.",
+            "Include strength training to build muscle mass.",
+            "Avoid empty calories like soda or fast food.",
+            "Monitor overall nutrition to avoid deficiencies in iron, vitamin D, or calcium."
+        ]
+    },
+    "Overweight/Obesity": {
+        "Count": 651,
+        "MedicalAdvice": [
+            "Focus on a balanced, calorie-controlled diet rich in vegetables, fruits, and lean proteins.",
+            "Reduce consumption of sugary drinks, fried foods, and high-fat meals.",
+            "Engage in at least 30 minutes of moderate exercise daily, such as brisk walking.",
+            "Prioritize sleep and manage stress to prevent overeating.",
+            "Seek medical advice for structured weight loss programs or medication, if necessary."
+        ]
+    },
+    "High_Insulin": {
+        "Count": "N/A (Thresholds not processed yet)",
+        "MedicalAdvice": [
+            "Reduce intake of refined carbohydrates and sugary foods.",
+            "Incorporate more fiber-rich foods like vegetables, fruits, and whole grains.",
+            "Exercise regularly to improve insulin sensitivity.",
+            "Monitor insulin levels under medical supervision.",
+            "Consult a healthcare provider for possible medication adjustments."
+        ]
+    },
+    "Low_Insulin": {
+        "Count": "N/A (Thresholds not processed yet)",
+        "MedicalAdvice": [
+            "Consume balanced meals with adequate carbohydrates and proteins.",
+            "Avoid skipping meals and maintain a regular eating schedule.",
+            "Include healthy fats like avocados, nuts, and olive oil.",
+            "Discuss with a doctor for insulin therapy or other treatments if necessary.",
+            "Monitor blood sugar levels frequently to avoid hypoglycemia."
+        ]
+    },
+    "BMI_Categories": {
+        "Underweight": {
+            "Range": "Below 18.5",
+            "Health_Risks": [
+                "Nutritional deficiencies (e.g., iron, vitamin D).",
+                "Weakened immune system.",
+                "Bone-related disorders such as osteoporosis.",
+                "Fertility issues in women."
+            ],
+            "MedicalAdvice": [
+                "Increase calorie intake with nutrient-dense foods like nuts, seeds, avocados, and dairy.",
+                "Eat frequent meals and healthy snacks.",
+                "Incorporate strength training exercises to build muscle mass.",
+                "Consult a healthcare provider or dietitian for a personalized plan."
+            ]
+        },
+        "Normal_Weight": {
+            "Range": "18.524.9",
+            "Health_Benefits": [
+                "Lower risk of chronic diseases such as heart disease and diabetes.",
+                "Better mobility and physical fitness.",
+                "Improved hormonal balance."
+            ],
+            "MedicalAdvice": [
+                "Maintain a balanced diet with adequate nutrients.",
+                "Engage in regular physical activity.",
+                "Schedule annual health check-ups to monitor overall well-being."
+            ]
+        },
+        "Overweight": {
+            "Range": "25.0–29.9",
+            "Health_Risks": [
+                "Increased risk of cardiovascular diseases.",
+                "Higher likelihood of developing Type 2 diabetes.",
+                "Joint problems such as osteoarthritis.",
+                "Increased risk of sleep apnea."
+            ],
+            "MedicalAdvice": [
+                "Focus on a calorie-controlled diet with an emphasis on whole foods.",
+                "Incorporate 30 minutes of moderate-intensity exercise daily.",
+                "Avoid sugary and processed foods.",
+                "Monitor weight regularly and set achievable goals."
+            ]
+        },
+        "Obesity": {
+            "Range": "30.0 and above",
+            "Health_Risks": [
+                "Significantly higher risk of heart disease, stroke, and diabetes.",
+                "Potential for high blood pressure and cholesterol issues.",
+                "Increased risk of certain cancers.",
+                "Joint pain and reduced mobility."
+            ],
+            "MedicalAdvice": [
+                "Seek a structured weight-loss program under medical supervision.",
+                "Adopt a balanced diet focusing on vegetables, lean proteins, and whole grains.",
+                "Engage in low-impact physical activities like swimming or walking.",
+                "Consider behavioral therapy for sustainable lifestyle changes.",
+                "Consult a doctor for potential medical or surgical interventions if necessary."
+            ]
+        }
+    }
+}]
